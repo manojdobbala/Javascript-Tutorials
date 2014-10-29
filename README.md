@@ -1,7 +1,7 @@
 Good to use stuff
 ====================
 <h4> SASS </h4>
-<p> Sass is a preprocessor that lets to use features like varibles, nesting, mixins, inheritance and save it out as a normal CSS</p>
+<p> Sass is a <strong> preprocessor</strong> that lets to use features like varibles, nesting, mixins, inheritance and save it out as a normal CSS</p>
 <p>Sass is an extension of CSS that adds power and elegance to basic language. It allows you to use</p>
 <ul>
   <li>Variables <pre>$ font-stack :Helvitica</pre></li> 
@@ -12,5 +12,9 @@ Good to use stuff
 </ul>
 
 <h4> Borubon Neat</h4>
-<p> Light weight semantic grid framework buily on top of Bourbon and Sass. It relies entirely on Sass Mixins </p>
+<p> Light weight semantic <strong> grid framework</strong> buily on top of Bourbon and Sass. It relies entirely on Sass Mixins </p>
+<pre> </pre
+
+<h4> Handlebars </h4>
+<p> Handlebars provide the power necessary to let you build semantic templates effectively. Handlebar is a <strong>compiler </strong> builtwith javascript function  </p>
 <pre> </pre>
