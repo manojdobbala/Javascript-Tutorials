@@ -49,6 +49,7 @@ Good to use stuff
 <tr><td>Options.hash </td><td>Handlebars expressions take not only strings and variables as arguments, but you can pass key-value pairs separated by spaces as well. Invocation of the Handlebars expression with the key-value pairs as parameters will be added automatically onto the hash object in the helper callback function </td></tr>
 </table>
 </ul>
+
 <h4> Requirejs</h4>
 <p>RequireJS takes a different approach to script loading than traditional &lt;script&gt; tags. While it can also run fast and optimize well, the primary goal is to encourage modular code. As part of that, it encourages using module IDs instead of URLs for script tags.</p>
 <pre>&lt;script data-main="scripts/main" src="scripts/require.js"&gt; &lt;/script&gt;</pre>
@@ -72,5 +73,20 @@ Good to use stuff
 });
 </pre>
 <p>This code would make up the entirety of our JavaScript file for this module. Nothing should be declared outside of a single define call. If this code was saved in my/utils.js, this module would be defined as the module “my/utils”.</p>
+
 <h4>Backbone</h4>
 <p>Backbone.js gives structure to web applications by providing models with key-value binding and custom events, <ul><li>collections with a rich API of enumerable functions</li><li> views with declarative event handling </li> <li>connects it all to your existing API over a RESTful JSON interface </li></P>
+<pre>Detailed content of backbone model,event and view coming up....</pre>
+
+<h4>Marionette</h4>
+<p>Backbone.Marionette is a composite application library for Backbone.js that aims to simplify the construction of large scale JavaScript applications. It is a collection of common design and implementation patterns found in applications.</p>
+<pre>Detailed content coming up....</pre>
+
+<h4>jquery underscore </h4>
+<p>for data manipulation : Underscore provides 80-odd functions that support both the usual functional suspects: map, select, invoke — as well as more specialized helpers: function binding, JavaScript templating, deep equality testing, and so on. It delegates to built-in functions, if present, so modern browsers will use the native implementations of forEach, map, reduce, filter, every, some and indexOf.</p>
+<pre>Detailed content coming up....</pre>
+
+<h4>Grunt </h4>
+<p>It’s a task runner, features: helps in Work in as small chunks of CSS and JavaScript, Compress your CSS and minify your JavaScript, Optimize your images</p>
+<pre>Detailed content coming up....</pre>
+
