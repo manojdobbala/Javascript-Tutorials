@@ -22,8 +22,8 @@ Good to use stuff
 &lt;div&gt; Name :{{customerName}}&lt;/div&gt; :customerName variable is a property that will be by the Handlebars.Compile function 
 </pre> </li>
     <li>Data (or Context) <pre>The data object is called the context; this object can be comprised of arrays (can use handlebars each helper), strings, numbers, other objects or a combination of all of these.</pre></li>
-    <li>The Handlebars Compile Function <pre>Compile the template with the Handlebars.compile function.
-Then use that compiled function to invoke the data object passed to it </pre></li>
+    <li>The Handlebars Compile Function <pre>Compile the template with the Handlebars .compile function
+        Then use that compiled function to invoke the data object passed to it </pre></li>
   </ul 
  </ol>
 
