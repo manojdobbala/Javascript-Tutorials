@@ -15,7 +15,7 @@ Good to use stuff
 <li><strong>Inline:</strong> No line break is created</li>
 <li><strong>List Item:</strong> Creates a line break before and after the element and adds a list item marker.</li>
 <li><strong>None:</strong> Makes an element not display on the page.</li>
-<li><strong>text-shadow<strong> has h-shadow v-shadow blur and color
+<li><strong>text-shadow</strong> has h-shadow v-shadow blur and color
 </ul>
 <h4>Good to Know Stuff</h4>
 
