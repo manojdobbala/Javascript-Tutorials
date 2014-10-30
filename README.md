@@ -49,3 +49,26 @@ Good to use stuff
 <tr><td>Options.hash </td><td>Handlebars expressions take not only strings and variables as arguments, but you can pass key-value pairs separated by spaces as well. Invocation of the Handlebars expression with the key-value pairs as parameters will be added automatically onto the hash object in the helper callback function </td></tr>
 </table>
 </ul>
+<h4> Requirejs</h4>
+<p>RequireJS takes a different approach to script loading than traditional &lt;script&gt; tags. While it can also run fast and optimize well, the primary goal is to encourage modular code. As part of that, it encourages using module IDs instead of URLs for script tags.</p>
+<pre>&lt;script data-main="scripts/main" src="scripts/require.js"&gt; &lt;/script&gt;</pre>
+<p>data-main: is the attribute that tells require.js to load script/main.js after require.js loads</p>
+<p>Inside main.js you can use require() to load any other script that needs to run. This ensures a single point entry, since data-main script you specify is loaded asynchronously.</p>
+<pre>require (["helper/util"], function(util) {
+}
+</pre>
+<p>Require.js by default assumes that all dependencies are scripts, so it does not expect to see a trailing “.js” suffix on module IDs.</p>
+<p>Defining module: module is different from traditional script file; a well scoped object that avoids polluting the global namespace is defined.</p>
+<pre>define(function () {
+ 
+  function method (x) {
+    return x + x;
+  }
+ 
+  return {
+    someValue: 'foobar',
+    myMethod: method
+  }
+});
+</pre>
+<p>This code would make up the entirety of our JavaScript file for this module. Nothing should be declared outside of a single define call. If this code was saved in my/utils.js, this module would be defined as the module “my/utils”.</p>
