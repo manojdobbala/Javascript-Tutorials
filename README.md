@@ -21,7 +21,7 @@ Good to use stuff
     <li>Handlebars expressions <pre>{{ content}} : content can be a variable or a helper function with or without parameters <br>{{article.title}}  :lookup the article property in the current context, then look for title in the result                     <br>{{{content}}}  :if you don’t want handlebar to escape a value use {{{
 &lt;div&gt; Name :{{customerName}}&lt;/div&gt; :customerName variable is a property that will be by the Handlebars.Compile function 
 </pre> </li>
-    <li>Data (or Context) <pre></pre></li>
+    <li>Data (or Context) <pre>The data object is called the context; this object can be comprised of arrays (can use handlebars each helper), strings, numbers, other objects or a combination of all of these.</pre></li>
     <li>The Handlebars Compile Function <pre></pre></li>
   </ul 
  </ol>
