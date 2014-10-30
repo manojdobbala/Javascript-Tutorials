@@ -72,3 +72,5 @@ Good to use stuff
 });
 </pre>
 <p>This code would make up the entirety of our JavaScript file for this module. Nothing should be declared outside of a single define call. If this code was saved in my/utils.js, this module would be defined as the module “my/utils”.</p>
+<h4>Backbone</h4>
+<p>Backbone.js gives structure to web applications by providing models with key-value binding and custom events, <ul><li>collections with a rich API of enumerable functions</li><li> views with declarative event handling </li> <li>connects it all to your existing API over a RESTful JSON interface </li></P>
