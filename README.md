@@ -16,5 +16,12 @@ Good to use stuff
 <pre> </pre
 
 <h4> Handlebars </h4>
-<p> Handlebars provide the power necessary to let you build semantic templates effectively. Handlebar is a <strong>compiler </strong> builtwith javascript function  </p>
-<pre> </pre>
+<p> Handlebars provide the power necessary to let you build semantic templates effectively. Handlebar is a <strong>compiler </strong> built with javascript function. This derived javascript function then takes one parameter, an object-your data-and it returns a string with the HTML and the object properties'values inserted intot the HTML. There are three main pieces of code you use of Handlebars templating</p>
+<pre> 
+  <ol>
+    <li>Handlebars expressions </li>
+    <li>Data (or Context)</li>
+    <li>The Handlebars Compile Function</li>
+  </ul 
+ </ol>
+</pre>
