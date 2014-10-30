@@ -1,20 +1,22 @@
 Good to use stuff
 ====================
+<h4>Basic Stuff</h4>
 <ul>
-<li>Margin:  declares margin between html element and the elements around it.</li>
-<li>Padding: distance between the border of an html element and the content within it.</li> 
-<li>Boarder: thin line of separation between margin and padding.</li>
-<li>Positioning: positioning properties are not inheritable how the elements are positioned (position:value)</li> 
-<li>Fixed and Absolute: does not occupy any space on regular flow of the DOM ,but placed above the DOM, Fixed positioning wrt the window, Absolute is positioned relative to its first positioned (non static) ancestor element.</li>
-<li>Static and Relative: follows the regular flow and occupies space in the DOM, static cannot have top and right properties, Relative can have this properties. Relative is wrt the parent </li>
-<li>Float : Float property changes how text and or images within an element are displayed. Float: value; (value can be left, right, none)</li>
-<li>Overflow: Control what elements contents will do if it overflows its boundaries. overflow:value; (value can be auto,hidden, visible,scroll)</li>
-<li>Z-index: to control the layer order of positioned elements. z-index:value;(value can be auto, number [higher the no hogher the level])</li>
-<li>Block: Creates a line break before and after the element</li>
-<li>Inline: No line break is created</li>
-<li>List Item: Creates a line break before and after the element and adds a list item marker.</li>
-<li>None: Makes an element not display on the page.</li>
-
+<li><strong>Margin:</strong>  declares margin between html element and the elements around it.</li>
+<li><strong>Padding:</strong> distance between the border of an html element and the content within it.</li> 
+<li><strong>Boarder: </strong>thin line of separation between margin and padding.</li>
+<li><strong>Positioning:</strong> positioning properties are not inheritable how the elements are positioned (position:value)</li> 
+<li><strong>Fixed and Absolute:</strong> does not occupy any space on regular flow of the DOM ,but placed above the DOM, Fixed positioning wrt the window, Absolute is positioned relative to its first positioned (non static) ancestor element.</li>
+<li><strong>Static and Relative:</strong> follows the regular flow and occupies space in the DOM, static cannot have top and right properties, Relative can have this properties. Relative is wrt the parent </li>
+<li><strong>Float :</strong> Float property changes how text and or images within an element are displayed. Float: value; (value can be left, right, none)</li>
+<li><strong>Overflow:</strong> Control what elements contents will do if it overflows its boundaries. overflow:value; (value can be auto,hidden, visible,scroll)</li>
+<li><strong>Z-index:</strong> to control the layer order of positioned elements. z-index:value;(value can be auto, number [higher the no hogher the level])</li>
+<li><strong>Block:</strong> Creates a line break before and after the element</li>
+<li><strong>Inline:</strong> No line break is created</li>
+<li><strong>List Item:</strong> Creates a line break before and after the element and adds a list item marker.</li>
+<li><strong>None:</strong> Makes an element not display on the page.</li>
+</ul>
+<h4>Good to Know Stuff</h4>
 
 <h4> SASS </h4>
 <p> Sass is a <strong> preprocessor</strong> that lets to use features like varibles, nesting, mixins, inheritance and save it out as a normal CSS</p>
