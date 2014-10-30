@@ -15,6 +15,7 @@ Good to use stuff
 <li><strong>Inline:</strong> No line break is created</li>
 <li><strong>List Item:</strong> Creates a line break before and after the element and adds a list item marker.</li>
 <li><strong>None:</strong> Makes an element not display on the page.</li>
+<li><strong>text-shadow<strong> has h-shadow v-shadow blur and color
 </ul>
 <h4>Good to Know Stuff</h4>
 
@@ -108,3 +109,23 @@ Good to use stuff
 <p>It’s a task runner, features: helps in Work in as small chunks of CSS and JavaScript, Compress your CSS and minify your JavaScript, Optimize your images</p>
 <pre>Detailed content coming up....</pre>
 
+<h4>Angular</h4>
+<p>Open source webframework aim for making development and testing tasks easier for web developers, it has no library dependencies. Angular teaches the browser how to be an ideal partner with any server technology by making use of dependency injection and inversion of control.</p>
+<p><strong>Directives:</strong> used to create custom and reusable HTML components, which ca be used to hide complex DOM structure and decorate certain elements with behavior. Prefaced with ng-, all the Directives take place in HTML attributes and work as standalone elements.</p>
+<table>
+<tr> <td><strong> ng-app:</strong> </td><td>applications root element and placed in the <body> or <html> tags. <html ng-app>is also used to declare a page as an angular application.</td><tr>
+<tr> <td><strong> ng-bind:</strong> </td><td>it replaces the text content of a HTML component with value of  expression and updates the text  content with the changes made in the value of that expression.</td><tr>
+<tr> <td><strong> ng-controller:</strong> </td><td>it is used to define a javascript controller class to evaluate HTML expressions.</td><tr>
+<tr> <td><strong> ng-model:</strong> </td><td>the ng-modal attribute is similar to ng-bind, except it is responsible for two-way data binding between the scope defined in the model and the view.</td><tr>
+<tr> <td><strong> ng-repeat: </strong> </td><td>It instantiates a template once per item, to which the loop variable is set, from a collection.</td><tr>
+<tr> <td><strong> ng-class: </strong> </td><td>this allows the class variable to load dynamically.</td><tr>
+<tr> <td><strong> ng-If: </strong> </td><td>This basic if statement is used to re-insert or eliminate an element from the DOM, depending on the condition is true or false.</td><tr>
+<tr> <td><strong> ng-hide and ng-show</strong> </td><td>according to Boolean expression’s value, these attributes conditionally display or hide element.</td><tr>
+</table>
+<h5><i>Data-binding in Angular</i></h5>
+<p>Data-binding is second most powerful feature in AngularJS, it eliminates unnecessary code for manipulating, traversing and listening to DOM events. Generally in most templating system, merge of template and model into a view happens one time, changes made into the model component and other sections of the view after this one time merge will not reflect In the model.</p>
+<p>In Angular two way data binding take place it automatically synchronizes the data between the model and view, and vice versa.
+</p>
+<p><strong>Dependency Injection:</strong>AngularJS comes with built in injector that is in charge of creating components, looking for dependencies and passing them to other components when needed.</p>
+<p>In Angular templates are written with HTML, containing Angular-specific components and attributes.</p>
+<p><strong>AngularJS Batarang</strong> is a chrome plug in for debugging angular applications on browser.</P
