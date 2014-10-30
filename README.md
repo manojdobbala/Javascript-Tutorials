@@ -128,4 +128,5 @@ Good to use stuff
 </p>
 <p><strong>Dependency Injection:</strong>AngularJS comes with built in injector that is in charge of creating components, looking for dependencies and passing them to other components when needed.</p>
 <p>In Angular templates are written with HTML, containing Angular-specific components and attributes.</p>
-<p><strong>AngularJS Batarang</strong> is a chrome plug in for debugging angular applications on browser.</P
+<p><strong>AngularJS Batarang</strong> is a chrome plug in for debugging angular applications on browser.</p>
+
