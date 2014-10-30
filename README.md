@@ -13,15 +13,16 @@ Good to use stuff
 
 <h4> Borubon Neat</h4>
 <p> Light weight semantic <strong> grid framework</strong> buily on top of Bourbon and Sass. It relies entirely on Sass Mixins </p>
-<pre> </pre
+<pre> content coming up.....</pre>
 
 <h4> Handlebars </h4>
 <p> Handlebars provide the power necessary to let you build semantic templates effectively. Handlebar is a <strong>compiler </strong> built with javascript function. This derived javascript function then takes one parameter, an object-your data-and it returns a string with the HTML and the object properties'values inserted intot the HTML. There are three main pieces of code you use of Handlebars templating</p>
-<pre> 
   <ol>
-    <li>Handlebars expressions </li>
-    <li>Data (or Context)</li>
-    <li>The Handlebars Compile Function</li>
+    <li>Handlebars expressions <pre>{{ content}} : content can be a variable or a helper function with or without parameters <br>{{article.title}}  :lookup the article property in the current context, then look for title in the result                     <br>{{{content}}}  :if you don’t want handlebar to escape a value use {{{
+&lt;div&gt; Name :{{customerName}}&lt;/div&gt; :customerName variable is a property that will be by the Handlebars.Compile function 
+</pre> </li>
+    <li>Data (or Context) <pre></pre></li>
+    <li>The Handlebars Compile Function <pre></pre></li>
   </ul 
  </ol>
-</pre>
+
