@@ -27,8 +27,9 @@ Good to use stuff
   <li>Partials<pre>_reset.scss in base.scss use @import ‘reset’    one scss to other scss file</pre> </li> 
   <li>Mixins <pre>@mixin name($radius){border-radius:$radius }   .box {@include name(10px)</pre></li>
   <li>Nesting <pre>nav{ul{} li{} a{}} rather than nav ul{} nav li{} nav a{} </pre></li>
-  <li>Extend <pre>One selctor to other selector   @extend</pre></li>
+  <li>Extend <pre>One selctor to other selector   @extend, literal meaning is to use a bunch of css properties from once selector to other</pre></li>
 </ul>
+<a href="http://sass-lang.com/guide">SASS Basic Reference</a>
 
 <h4> Borubon Neat</h4>
 <p> Light weight semantic <strong> grid framework</strong> buily on top of Bourbon and Sass. It relies entirely on Sass Mixins </p>
