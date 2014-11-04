@@ -135,3 +135,6 @@ Good to use stuff
 <p>XAMPP stands for Cross-Platform (X), Apache (A), MySQL (M), PHP (P) and Perl (P). It is a simple, lightweight Apache distribution that makes it extremely easy for developers to create a local web server for testing purposes</p>
 <ul><li><strong>Apache:</strong> Apache is the actual web server application that processes and delivers web content to a computer. Apache is the most popular web server online, powering nearly 54% of all websites</li></ul>
 <p>once installed go to this path and place the dist :<pre>C:\xampp\tomcat\webapps\ROOT </pre>  and start the tomcat server </p>
+
+<h4>Tools </h4>
+<ul> <li>beyond compare</li> </ul> 
