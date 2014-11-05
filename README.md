@@ -17,7 +17,8 @@ Good to use stuff
 <li><strong>None:</strong> Makes an element not display on the page.</li>
 <li><strong>text-shadow</strong> has h-shadow v-shadow blur and color
 </ul>
-<a href="http://www.cssflow.com/">CSS Flow </a> <br>
+<a href="http://www.cssflow.com/">CSS Flow </a> 
+<a href="http://www.quackit.com/">All CSS, HTML properties and tags listed </a> <br>
 <h4>Good to Know Stuff</h4>
 
 <h4> SASS </h4>
