@@ -147,4 +147,4 @@ Good to use stuff
 <h4>Tools </h4>
 <ul> <li>beyond compare</li> </ul> </br>
 
-<a href="http://uptodate.frontendrescue.org/">All Mix Fruit juice for Frontend technoligies</a>
+<a href="http://uptodate.frontendrescue.org/">All Mix Fruit juice for Frontend technologies</a>
