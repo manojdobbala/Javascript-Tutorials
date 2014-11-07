@@ -19,8 +19,12 @@ Good to use stuff
 </ul>
 <a href="http://www.cssflow.com/">CSS Flow </a> <br>
 <a href="http://www.quackit.com/">All CSS, HTML properties and tags listed </a> <br>
-<h4>Good to Know Stuff</h4>
 
+<h4> HTML5  </h4>
+<a href="http://html5-demos.appspot.com/static/html5-whats-new/template/index.html#1" </a> <br>
+<a href="http://www.htmlfivewow.com/slide1"</a> <br>
+
+<h4>Good to Know Stuff</h4>
 <h4> SASS </h4>
 <p> Sass is a <strong> preprocessor</strong> that lets to use features like varibles, nesting, mixins, inheritance and save it out as a normal CSS</p>
 <p>Sass is an extension of CSS that adds power and elegance to basic language. It allows you to use</p>
