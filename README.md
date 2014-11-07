@@ -21,8 +21,9 @@ Good to use stuff
 <a href="http://www.quackit.com/">All CSS, HTML properties and tags listed </a> <br>
 
 <h4> HTML5  </h4>
-<a href="http://html5-demos.appspot.com/static/html5-whats-new/template/index.html#1" </a> <br>
-<a href="http://www.htmlfivewow.com/slide1"</a> <br>
+<a href="http://www.htmlfivewow.com/slide1"> HTML5 Wow </a><br>
+<a href="http://html5-demos.appspot.com/static/html5-whats-new/template/index.html#1">HTML5 Whats new </a><br>
+
 
 <h4>Good to Know Stuff</h4>
 <h4> SASS </h4>
