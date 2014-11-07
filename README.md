@@ -145,4 +145,6 @@ Good to use stuff
 <p>once installed go to this path and place the dist :<pre>C:\xampp\tomcat\webapps\ROOT </pre>  and start the tomcat server </p>
 
 <h4>Tools </h4>
-<ul> <li>beyond compare</li> </ul> 
+<ul> <li>beyond compare</li> </ul> </br>
+
+<a href="http://uptodate.frontendrescue.org/">All Mix Fruit juice for Frontend technoligies</a>
