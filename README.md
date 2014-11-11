@@ -145,8 +145,9 @@ Good to use stuff
 <p>once installed go to this path and place the dist :<pre>C:\xampp\tomcat\webapps\ROOT </pre>  and start the tomcat server </p>
 
 <h4>Tools </h4>
-<ul> <li>beyond compare</li> </ul> </br>
-<a href="http://uptodate.frontendrescue.org/">All Mix Fruit juice for Frontend technologies</a><br>
-<a hred="https://www.draw.io/">Drawing flow charts</a><br>
-<a href="http://placehold.it">Place holder</a>, <a href="http://lorempixel.com/">LoremPixel</a><br>
-<a href="https://pixlr.com/">To create opaque images</a>
+<ul> <li>beyond compare</li>
+<li><a href="http://uptodate.frontendrescue.org/">All Mix Fruit juice for Frontend technologies</a></li>
+<li><a hred="https://www.draw.io/">Drawing flow charts</a></li>
+<li><a href="http://placehold.it">Place holder</a>, <a href="http://lorempixel.com/">LoremPixel</a></li>
+<li><a href="https://pixlr.com/">To create opaque images</a></li>
+</ul>
