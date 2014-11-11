@@ -147,7 +147,7 @@ Good to use stuff
 <h4>Tools </h4>
 <ul> <li>beyond compare</li>
 <li><a href="http://uptodate.frontendrescue.org/">All Mix Fruit juice for Frontend technologies</a></li>
-<li><a hred="https://www.draw.io/">Drawing flow charts</a></li>
+<li><a href="https://www.draw.io/">Drawing flow charts</a></li>
 <li><a href="http://placehold.it">Place holder</a></li>
 <li><a href="http://lorempixel.com/">LoremPixel</a></li>
 <li><a href="https://pixlr.com/">To create opaque images</a></li>
