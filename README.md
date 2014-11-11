@@ -148,5 +148,5 @@ Good to use stuff
 <ul> <li>beyond compare</li> </ul> </br>
 <a href="http://uptodate.frontendrescue.org/">All Mix Fruit juice for Frontend technologies</a><br>
 <a hred="https://www.draw.io/">Drawing flow charts</a><br>
-<a href="http://placehold.it">Place holder</a> ,<a href="http://lorempixel.com/">LoremPixel</a><br>
+<a href="http://placehold.it">Place holder</a>, <a href="http://lorempixel.com/">LoremPixel</a><br>
 <a href="https://pixlr.com/">To create opaque images</a>
