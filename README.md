@@ -152,3 +152,9 @@ Good to use stuff
 <li><a href="http://lorempixel.com/">LoremPixel</a></li>
 <li><a href="https://pixlr.com/">To create opaque images</a></li>
 </ul>
+
+<h4>HTTP Explained </h4>
+<p>HTTP: Is a request/response protocol between the browser(client) and the web server
+http request from client to the server contains all the information server needs to send the response
+<li><a href="http://rve.org.uk/dumprequest">HTTP Well explained *must read* </a></li>
+HTTP Methods</p>
