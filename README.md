@@ -154,7 +154,7 @@ Good to use stuff
 </ul>
 
 <h4>HTTP Explained </h4>
-<p>HTTP: Is a request/response protocol between the browser(client) and the web server
+<h4>HTTP Explained </h4>Is a request/response protocol between the browser(client) and the web server
 http request from client to the server contains all the information server needs to send the response
 
 HTTP GET:get requests asks for data and does not modify any data on the server, typing a url in the browser , clicking on the link 
@@ -163,3 +163,7 @@ HTTP Post: Post changes state on the server. posting status update on twitter , 
 post requests are usually initiated by a web form.
 <li><a href="http://rve.org.uk/dumprequest">HTTP Well explained *must read* </a></li>
 HTTP Methods</p>
+
+
+<h4>AJAX Explained </h4>
+<p> Async javascript and xml </h4> </p>
