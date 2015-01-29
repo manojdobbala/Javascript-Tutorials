@@ -7,7 +7,7 @@ Good to use stuff
 <li><strong>Boarder: </strong>thin line of separation between margin and padding.</li>
 <li><strong>Positioning:</strong> positioning properties are not inheritable how the elements are positioned (position:value)</li> 
 <li><strong>Fixed and Absolute:</strong> does not occupy any space on regular flow of the DOM ,but placed above the DOM, Fixed positioning wrt the window, Absolute is positioned relative to its first positioned (non static) ancestor element.</li>
-<li><strong>Static and Relative:</strong> follows the regular flow and occupies space in the DOM, static cannot have top and right properties, Relative can have this properties. Relative is wrt the parent </li>
+<li><strong>Static and Relative:</strong> follows the regular flow and occupies space in the DOM, static cannot have top and right properties, Relative can have this properties. Relative is wrt its normal position </li>
 <li><strong>Float :</strong> Float property changes how text and or images within an element are displayed. Float: value; (value can be left, right, none)</li>
 <li><strong>Overflow:</strong> Control what elements contents will do if it overflows its boundaries. overflow:value; (value can be auto,hidden, visible,scroll)</li>
 <li><strong>Z-index:</strong> to control the layer order of positioned elements. z-index:value;(value can be auto, number [higher the no hogher the level])</li>
